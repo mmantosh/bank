@@ -23,6 +23,7 @@ import com.websystique.springmvc.service.EmployeeService;
 //message "hello"
 //message "helloWorld"
 //9853558675
+//added the details
 @Controller
 @RequestMapping("/")
 public class AppController {
